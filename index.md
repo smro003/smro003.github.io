@@ -15,8 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## AI
 
-Body
+JeonYoungJin
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
